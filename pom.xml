@@ -50,7 +50,7 @@
 					<source>1.8</source>
 					<target>1.8</target>
 					<fork>true</fork>
-					<executable>$C:\Users\user\.jdks\openjdk-20.0.1/bin/javac</executable>
+					<executable>$C:\Users\user\.jdks\corretto-1.8.0_352/bin/javac</executable>
 				</configuration>
 			</plugin>
 		</plugins>
